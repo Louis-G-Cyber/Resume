@@ -1,6 +1,7 @@
 # LOUIS M. GALLEGOS III
 
-**Email:** louismgallegos@gmail.com | **Phone:** 720-297-4080 | **LinkedIn:** [linkedin.com/in/louis-g-cyber](https://www.linkedin.com/in/louis-g-cyber)
+**Email:** louismgallegos@gmail.com | **Phone:** 720-297-4080 | **LinkedIn:** [linkedin.com/in/louis-g-cyber](https://www.linkedin.com/in/louis-g-cyber) [![Download Resume PDF](https://img.shields.io/badge/Resume-PDF-red?style=flat-square)](https://github.com/Louis-G-Cyber/Resume/raw/main/Louis%20G.VetSec%20Resume.pdf)
+
 
 ---
 
