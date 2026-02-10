@@ -1,6 +1,6 @@
 # LOUIS M. GALLEGOS III
 
-louismgallegos@gmail.com   |   720-297-4080   |   **LinkedIn:** [linkedin.com/in/louis-g-cyber](https://www.linkedin.com/in/louis-g-cyber)   |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="margin-left:2in">[![Download Resume](https://img.shields.io/badge/Download%20Resume-blue?style=flat-square)](https://github.com/Louis-G-Cyber/Resume/raw/main/Louis%20G.VetSec%20Resume.pdf)</span>
+louismgallegos@gmail.com&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;720-297-4080&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;**LinkedIn:** [linkedin.com/in/louis-g-cyber](https://www.linkedin.com/in/louis-g-cyber)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="margin-left:2in">[![Download Resume](https://img.shields.io/badge/Download%20Resume-blue?style=flat-square)](https://github.com/Louis-G-Cyber/Resume/raw/main/Louis%20G.VetSec%20Resume.pdf)</span>
 
 
 
