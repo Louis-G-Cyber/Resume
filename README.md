@@ -34,6 +34,7 @@ Cybersecurity professional and military veteran with hands-on experience in inci
 ## EXPERIENCE
 
 **CyberMaxx (MDR & Incident Response)** - Level 2 SOC Analyst (Remote)
+
 *March 2026 - Present*
 
 -	Investigated 30–40 security alerts daily across EDR, SIEM, email, and cloud platforms supporting 600+ clients.
