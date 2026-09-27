@@ -13,7 +13,7 @@ Cybersecurity professional and military veteran with hands-on experience in inci
 - Experience with Microsoft Defender XDR for alert triage, endpoint containment, and threat hunting across Windows and cloud environments
 - Proficient with Avanan for email security, phishing detection, and DLP monitoring in cloud-hosted applications
 - Utilized Jira for incident tracking, SOC workflow management, documentation of runbooks, and remediation tasks
-- Experience with live investigations in SentinelOne, Defender XDR, & Avanan
+- Experience with live investigations in Bash, PowerShell, SentinelOne, Defender XDR, Cortex, Elastic/Kibana, Crowed Strike, Devo, Splunk, Google Workspace, Mimecast, & Avanan.
 
 ---
 
@@ -24,6 +24,7 @@ Cybersecurity professional and military veteran with hands-on experience in inci
 ---
 
 ## CERTIFICATIONS
+- GIAC Certified Incident Handler (GCIH)
 - GIAC Security Essentials (GSEC)  
 - GIAC Information Security Fundamentals (GISF)  
 - GIAC Foundational Cybersecurity Technologies (GFACT)
@@ -32,8 +33,20 @@ Cybersecurity professional and military veteran with hands-on experience in inci
 
 ## EXPERIENCE
 
-**JRPC InfoSec (MDR & Incident Response)** — Level 2 Security Analyst (Remote)  
-*October 2023 - Present*
+**CyberMaxx (MDR & Incident Response)** - Level 2 SOC Analyst (Remote)
+*March 2026 - Present*
+
+-	Investigated 30–40 security alerts daily across EDR, SIEM, email, and cloud platforms supporting 600+ clients.
+-	Conducted 1–2 weekly Threat Response Team (TRT) investigations, including advanced incident response and basic forensic analysis.
+-	Served as an L2 escalation point for complex and sensitive incidents, providing advanced investigation and response support.
+-	Performed after-action reviews for high-impact incidents, identifying improvements to SOC processes and response procedures.
+-	Served as an SME for assigned security products, supporting detection tuning, investigation, and response, reducing false positives by up to 11%.
+-	Acted as a technical point of contact for customers during security incidents, communicating findings and remediation recommendations.
+-	Trained and mentored L1 & L2 analysts on investigation and response procedures.
+
+
+**JRPC InfoSec (MDR & Incident Response)** - Level 2 Security Analyst (Remote)  
+*October 2023 - March 2026*
 
 - Triaged and investigated approximately 250 - 800 security alerts per week across EDR, email, and cloud platforms, identifying threats, reducing false positives, and escalating high-priority incidents for rapid containment
 - Conducted attack surface assessments to identify exposed assets and potential vulnerabilities for 8 clients, providing remediation recommendations that improved clients’ overall security posture (estimated 624 remediations over 2+ years)
