@@ -47,6 +47,7 @@ Cybersecurity professional and military veteran with hands-on experience in inci
 
 
 **JRPC InfoSec (MDR & Incident Response)** - Level 2 Security Analyst (Remote)  
+
 *October 2023 - March 2026*
 
 - Triaged and investigated approximately 250 - 800 security alerts per week across EDR, email, and cloud platforms, identifying threats, reducing false positives, and escalating high-priority incidents for rapid containment
